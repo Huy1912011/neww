@@ -2119,8 +2119,8 @@ local Tab = Window:AddTab("   MOD 4  ")
 		Tab:AddLabel("ALI BOSS: CHUC BAN 1 NGAY TOT LANH")
 	    Tab:AddLabel("~ DANH SACH MENU SCRIPT ALI BOSS ~")
 		
-				Tab:AddButton("MADOX HUB", function()
-			               loadstring(game:HttpGet("https://raw.githubusercontent.com/Fiend1sh/FiendMain/main/MadoxHubKey",true))()
+				Tab:AddButton("XETER HUB", function()
+			               loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/Xeter"))()
 		end)
 end
 
